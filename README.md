@@ -1,10 +1,5 @@
-# About
-My name is Justin and I am student at Vanderbilt studying Computer Science and Public Health!
------
 # Tech Stack
-[![Web Dev](https://skillicons.dev/icons?i=html,css,js,ts,mongodb,express,react,nodejs,tailwind,mysql,nextjs&theme=dark)](https://skillicons.dev)
-
-[![Other Langs](https://skillicons.dev/icons?i=python,java&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,html,css,js,mongodb,express,react,nodejs,tailwind,mysql,nextjs&theme=dark&perline=6)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,github,figma&theme=dark)](https://skillicons.dev)
 
