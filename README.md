@@ -1,5 +1,5 @@
 # Tech Stack
-[![Languages](https://skillicons.dev/icons?i=python,java,html,css,js,mongodb,express,react,nodejs,tailwind,mysql,nextjs&theme=dark&perline=6)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,express,react,nodejs,nextjs&theme=dark&perline=6)](https://skillicons.dev)
 
 [![Tools](https://skillicons.dev/icons?i=vscode,postman,github,figma&theme=dark)](https://skillicons.dev)
 
