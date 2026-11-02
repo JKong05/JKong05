@@ -1,5 +1,5 @@
-# Tech Stack
-[![Languages](https://skillicons.dev/icons?i=python,java,typescript&theme=dark&perline=6)](https://skillicons.dev)
+![Demo](https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif)
+
 
 <!--
 **JKong05/JKong05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
